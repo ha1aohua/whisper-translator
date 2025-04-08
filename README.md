@@ -1,0 +1,3 @@
+# Whisper Translator
+
+后端基于 FastAPI 的同声传译系统。开发中...
